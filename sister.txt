@@ -1,6 +1,4 @@
-
-1st mysql connection 
-
+Hello sumanth
 
 
 
