@@ -1,0 +1,955 @@
+[33mcommit 06a2c882b583501ec76fbe7ac7fd021ccce572ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/k[m[33m, [m[1;32mk[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 10:06:40 2024 -0500
+
+    svch
+
+[33mcommit a504546471fbc4ea1f812d6ee3ebd4d09917da8f[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 09:56:35 2024 -0500
+
+    bsj
+
+[33mcommit 44146d6ab4184a0e0b556fbb095d71a5f118e9cd[m
+Merge: 1960d00 3f28a8b
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 09:51:22 2024 -0500
+
+    sbc:
+
+[33mcommit 1960d000132a88cef8c8c2b9c20d2c6bd9145a1b[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 09:45:05 2024 -0500
+
+    abaj
+
+[33mcommit 3f28a8b0cff7d6b9066ffbbb91c5e00091fc2ed1[m
+Merge: 1111ec2 5b327e1
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 09:42:27 2024 -0500
+
+    bsj
+
+[33mcommit 1111ec2d3bc4b7c29e2471006fb2267889dd09f7[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 09:41:48 2024 -0500
+
+    bsj
+
+[33mcommit 5b327e15d85bf1388da228c65185769794ca3872[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Wed Nov 6 00:26:31 2024 -0500
+
+    bfj
+
+[33mcommit 5feae97e9f20302a2a36344b6259ebd6be7493ea[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 21:30:29 2024 -0500
+
+    sbcj
+
+[33mcommit 2c2b96a65264409c6b600393e5602da15281572e[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 19:51:48 2024 -0500
+
+    vcj:
+
+[33mcommit 46b07454e1c8206c64239721750a4f53606ed8f4[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 19:41:54 2024 -0500
+
+    vdjc
+
+[33mcommit 1a9ebd0786572b806f12d8918748963b67383bf9[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 19:20:11 2024 -0500
+
+    bsdj
+
+[33mcommit 069a289e0a6a103bf3ba847199faf0715ca2365f[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 19:12:27 2024 -0500
+
+    nsck
+
+[33mcommit 7a12f5da13152b580e5453448e13495ca92c77a9[m
+Merge: 12e667e 6c09ed5
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 18:22:34 2024 -0500
+
+    Merge branch 'k' of github.com:Meruv1s/javacodes into k
+
+[33mcommit 12e667ea9e4adc9581a1b0a1fbba1840961e68a2[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 17:02:20 2024 -0500
+
+    sbj:
+
+[33mcommit 6c09ed5ad4125e708fdf96bc6648df98ccbf0aa5[m
+Merge: 9ffae4d 477461f
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 16:47:27 2024 -0500
+
+    sbdj
+
+[33mcommit 9ffae4db360d73c344f94a2686fe9c3597957d09[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 16:45:12 2024 -0500
+
+    bsj:
+
+[33mcommit 477461f0dba447b69dbff14991ff0e826230ca0a[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 14:23:13 2024 -0500
+
+    sbfs
+
+[33mcommit 942987dd4e93e6a907e24d24a7785619f8750aca[m
+Merge: 146f02b 10cee53
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 14:12:06 2024 -0500
+
+    sbcj:
+
+[33mcommit 10cee5315be91b4024f64782c7cacf6177623e59[m
+Merge: 7170c8a a56b8e3
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 14:06:00 2024 -0500
+
+    bsfj
+
+[33mcommit 7170c8a410204450de4922657cf515231e9e7574[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 14:05:16 2024 -0500
+
+    sbcj
+
+[33mcommit a56b8e38e08f3936e354a387973b1e7c74d4faa8[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Nov 5 14:02:56 2024 -0500
+
+    Update m1.txt
+
+[33mcommit 146f02bb662678edd4ccd36eb8d2ee3dd32127fd[m
+Merge: f306d8d d2a6f52
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:54:23 2024 -0500
+
+    vdj
+
+[33mcommit d2a6f5247fecbcde492b40ede636dd99d4ec270a[m[33m ([m[1;31morigin/m1branch[m[33m, [m[1;32mm1branch[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:46:16 2024 -0500
+
+    cbsj
+
+[33mcommit f306d8da9f03fe53892b275f29bcdeb13e438c78[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:45:05 2024 -0500
+
+    svcj:
+
+[33mcommit 9222be80066ce6da472cd2e4310419b3cc6b1c07[m
+Merge: d938f58 375e0b9
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:42:50 2024 -0500
+
+    sbj
+
+[33mcommit 375e0b9b78de4b72049d8415f07ab5379e1250e6[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:39:21 2024 -0500
+
+    su
+
+[33mcommit d938f58342b139180322f3be985b4d123c929a9d[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:24:40 2024 -0500
+
+    sbcj
+
+[33mcommit 2a2c1e043849a8283057d0fae8441e7a5a60dcf3[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 13:23:02 2024 -0500
+
+    svdhs
+
+[33mcommit 37bc7490c1ecaa1469d251d46eb1fdfd8ec2623b[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 12:27:53 2024 -0500
+
+    bfck
+
+[33mcommit 6226d5f849dd7a0e0e30fe229083c51988f719bf[m
+Merge: 4673cc5 607384f
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 12:17:47 2024 -0500
+
+    sb
+
+[33mcommit 4673cc580202ed015ac78aba9bcc63c0dff272b4[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 12:16:29 2024 -0500
+
+    bsj
+
+[33mcommit 607384f12e58a090191a3a1314b5b80ec5d2a766[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 12:06:10 2024 -0500
+
+    sndk
+
+[33mcommit 5a39b28245a909193f91bd7cdd3fa8c0cc0b84e9[m[33m ([m[1;32mf2[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Nov 5 11:57:20 2024 -0500
+
+    bdsj
+
+[33mcommit ded18221175f1a271a07dadba2577aae41e266b2[m[33m ([m[1;31morigin/f2[m[33m)[m
+Merge: 06a182c 0190d07
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 17 12:35:27 2024 -0400
+
+    sj
+
+[33mcommit 06a182cd6e694f9c4fed8a90465eb1713c7ac15b[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 17 12:29:00 2024 -0400
+
+    bcj
+
+[33mcommit 0190d079fe096eaa9e80fded4d8cf5ad8ac87e5b[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 17 12:27:59 2024 -0400
+
+    shcs
+
+[33mcommit b05274ef4eb779e257244d90ecb9f59edf2a7d1c[m
+Merge: f5ea1c3 0587ac9
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sun Aug 11 18:17:53 2024 -0400
+
+    bsj
+
+[33mcommit f5ea1c353392020f139f9debe49daa9d19aa1cff[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sun Aug 11 18:17:05 2024 -0400
+
+    bsj
+
+[33mcommit 0587ac9930c9e0a09e4a23a69936821a66aa4e3c[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sun Aug 11 18:10:45 2024 -0400
+
+    xbsj
+
+[33mcommit 3ae73bb32dbf695a46bc920f16f649f6e5ac0d20[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sun Aug 11 18:08:41 2024 -0400
+
+    sbj
+
+[33mcommit 2ca1d5bc66fa0d09b985c30e74870c3311e0c1df[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 11:12:25 2024 -0400
+
+    scnj
+
+[33mcommit 903ab3e0ef6a9dced45a3991bad5acc1b8ca95e6[m
+Merge: c3ea09e 95f8051
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 11:06:26 2024 -0400
+
+    Merge branch 'f2' of github.com:Meruv1s/javacodes into f2
+
+[33mcommit c3ea09ebb0eb6305b0bb372f1be4a8767dafc9b3[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 11:05:14 2024 -0400
+
+    bscj
+
+[33mcommit 95f80519bbf0e781e3b6e65b0227df98694efa19[m
+Merge: 798cdb1 23a7230
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 11:04:39 2024 -0400
+
+    bcjs
+
+[33mcommit 798cdb1eb8edd0de81015ba65fa5f250b3013467[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 11:00:56 2024 -0400
+
+    bck
+
+[33mcommit 23a72309a84661983765b122c6753f2013bb6177[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:57:17 2024 -0400
+
+    vcs
+
+[33mcommit cba0972bb359a4a5fc91a3bb6cd4c329c83cb2e3[m
+Merge: 75cd3d2 7a0b337
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:52:59 2024 -0400
+
+    sdbj
+
+[33mcommit 75cd3d2ba23ea60c2437a2010041ce1e93335851[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:50:14 2024 -0400
+
+    sbdj
+
+[33mcommit 7a0b33701799cbe52fca05233bfe83631d012fb1[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:49:01 2024 -0400
+
+    dbfj
+
+[33mcommit a3d87198460ce04442c594876bfa533a3d3c8017[m
+Merge: 6046d46 813bcc2
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:41:11 2024 -0400
+
+    sbjd
+
+[33mcommit 6046d46abfb55fea3ae98b87485f6009a23108d4[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:39:08 2024 -0400
+
+    nskc
+
+[33mcommit 813bcc20b1ea45ba23fa195d3a5d20417e6861eb[m
+Merge: 1f0e3d4 3d5210b
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:37:59 2024 -0400
+
+    schjb
+
+[33mcommit 1f0e3d4c2d8a28f3d434a78422ac7532b02977af[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:36:21 2024 -0400
+
+    cnj
+
+[33mcommit 711ed58ea28c5b1e06ec61e0fabe2d77c3e34003[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:31:42 2024 -0400
+
+    snk
+
+[33mcommit 3d5210b594612649092b8dc542ddf388387c64a8[m
+Merge: b3e3c7c 40aa500
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 10:30:53 2024 -0400
+
+    nsdk
+
+[33mcommit b3e3c7c9ac659c4cbd456b0e2fe078dd14a7ba80[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:58:59 2024 -0400
+
+    cbus
+
+[33mcommit 40aa50094cfaa300118850152f6d684d69ea1f9e[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:55:26 2024 -0400
+
+    bwjd
+
+[33mcommit 3e3d156a7724e7ae1f95cf904b3f75f9866661b0[m
+Merge: f669d93 83612f0
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:54:04 2024 -0400
+
+    hsdb
+
+[33mcommit 83612f057114c69f13ba5f049fb7a2d2ac8508a1[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 01:29:06 2024 -0400
+
+    Update sister.txt
+
+[33mcommit f966ae894d35086e564ce1d337987abf36f78e5b[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 01:28:56 2024 -0400
+
+    Update sister.txt
+
+[33mcommit f669d930efe533b4d2131c46fbee485b2c19c122[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:12:27 2024 -0400
+
+    bjs
+
+[33mcommit c3c118f11f7a828c97ae851a103546e93d65c21f[m[33m ([m[1;32mid[m[33m)[m
+Merge: 808a29f 40e9069
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:10:31 2024 -0400
+
+    sbcj
+
+[33mcommit 808a29fba0df7777f90b2499d44524541789206d[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 01:01:47 2024 -0400
+
+    bcjs
+
+[33mcommit 40e906924873f5c60964ea56172fb322cf69049e[m
+Merge: cb2e777 3497208
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:40:10 2024 -0400
+
+    nsdkj
+
+[33mcommit cb2e7777abbb018bb2b6d3ec9f35f049761a1697[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:39:11 2024 -0400
+
+    cbsj
+
+[33mcommit 34972084fb3edd5ac7d295155df1b911ef92d6c7[m
+Merge: 5863934 0442569
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:37:06 2024 -0400
+
+    cndk
+
+[33mcommit 04425694083c84fb9ac32bb8e20baa185a096ef8[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:53:34 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 8fc3795f17c4d1a100c389ac21eb247d985ad1d0[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:53:21 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 58639346588fde5a47fb5c6fa924123554b47fc6[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:36:14 2024 -0400
+
+    :sbcjs
+
+[33mcommit d5b44263a1b72e5a39fa6603569d61ec5e8d93e1[m
+Merge: fb6138b 8f318ce
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:33:09 2024 -0400
+
+    Merge branch 'f2' of github.com:Meruv1s/javacodes into f2
+
+[33mcommit fb6138bb05c19edc3aecfe565b464017bc2ea829[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:32:44 2024 -0400
+
+    vscs
+
+[33mcommit 8f318cebb0f3fb1227c31ae0f4514e573993dd2e[m
+Merge: cf265cc 77939b4
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:30:36 2024 -0400
+
+    vshc
+
+[33mcommit cf265cc8bf5dd0f236405a0b365f353d0d46b366[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:27:32 2024 -0400
+
+    vcj
+
+[33mcommit 77939b4df155eb75d7ab166f686dcb4bc0400f3f[m
+Merge: b4856ab 0603538
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:26:41 2024 -0400
+
+    sbc
+
+[33mcommit 0603538d184d588d347668e5051331e8d21914a3[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:43:30 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 1dfb312385dd567afb56b4c1186a535fdbc5e56d[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:42:19 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 09d236ceb00a709cd7b35ed1736af67aa84e8e83[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:41:35 2024 -0400
+
+    Update sister.txt
+
+[33mcommit b4856ab25ec774651c1993a07581e93833cc1c6c[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:25:52 2024 -0400
+
+    dcbjd
+
+[33mcommit 1e26824532056f19945c2dd8e52eab1b2581a12e[m
+Merge: 7399026 66057e3
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:23:01 2024 -0400
+
+    cbj
+
+[33mcommit 66057e379484d823cd48e7f7ff63d4e89bcb315f[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:39:46 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 7399026f3a14493b04673ff5d88fe1a226f4d815[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:20:21 2024 -0400
+
+    scbjsjb
+
+[33mcommit 833d05e8697c30adb919e561131668e90d2f1d2e[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:19:22 2024 -0400
+
+    vchs
+
+[33mcommit 612f637e25a96b503ef0fc87d082cf8db0e23023[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:16:21 2024 -0400
+
+    bfsj
+
+[33mcommit f473e651627e3cecdd93ad449fae9c9c039f74f3[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Tue Aug 6 00:14:09 2024 -0400
+
+    :scbdsj
+
+[33mcommit f8360f0721f069f038d3cb9590ccdfbb1937a7a3[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:15:59 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 1a6cbce403c5e660ae5cba14245c93e22b1608d2[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:57:19 2024 -0400
+
+    sbcs
+
+[33mcommit 65ed9e2bb77c87b291a8cf2aea50ccdee8487aab[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:12:29 2024 -0400
+
+    Update sister.txt
+
+[33mcommit d2215a647634d094dd9068df254fb268cc3ff356[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:11:39 2024 -0400
+
+    Update sister.txt
+
+[33mcommit b93a293a5cd022554fd9569d2310d4f2b09e812c[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:52:53 2024 -0400
+
+     dkv
+
+[33mcommit 45034dfd98ca83fd0efc13aec0b759905cb85887[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:09:48 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 4f35a15bd4278611786b02716a53353832fede3d[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:08:34 2024 -0400
+
+    Update sister.txt
+
+[33mcommit c78a85b21211e29044b189f59e151598d2644a1f[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:04:20 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 9207a430ece7db1dcfaf272c2b24387bdb6105c1[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Tue Aug 6 00:00:21 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 9f23c4061242c6381403987dadb41993fb126580[m
+Merge: 8317d7f 239a0ac
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:41:23 2024 -0400
+
+    sc
+
+[33mcommit 8317d7fd3e6a1febeeff29523e83ae4d46a22e7a[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:40:19 2024 -0400
+
+    bdcj
+
+[33mcommit 239a0ac4e4788537f33aa9f2dd8375236f6bd5cb[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:37:35 2024 -0400
+
+    scbj
+
+[33mcommit 2f9223106039e7e61264a597815a20f1d520da21[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Mon Aug 5 23:50:31 2024 -0400
+
+    Update sister.txt
+
+[33mcommit fdfa14e787247d13f30ea04eb9f322031a5fb4ea[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:36:59 2024 -0400
+
+    sbsj
+
+[33mcommit 79790c71dbd0efb0968ce2171626214187411cf0[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Mon Aug 5 23:27:42 2024 -0400
+
+    dcb
+
+[33mcommit b9fbe090c8ca3e92a37cfc239edb29378247f5d6[m
+Merge: 206ed4a c4ad4b9
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 3 13:26:58 2024 -0400
+
+    xsj
+
+[33mcommit c4ad4b9a88fcb37f068b73e6e8e8a197d388d6ae[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 3 13:24:36 2024 -0400
+
+    bj
+
+[33mcommit 206ed4a4e8a194e12cdb31a535b1f3f83f51c971[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Sat Aug 3 13:23:29 2024 -0400
+
+    vdsh
+
+[33mcommit 4a07c0d7ecff2aaf7075f7b58ead91b23adfa3e5[m
+Merge: 1bfdc61 3c127ab
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:53:55 2024 -0400
+
+    sbaj
+
+[33mcommit 1bfdc619a0fed467ecc83cfa0050a483491cdb17[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:50:47 2024 -0400
+
+    nxk
+
+[33mcommit 3c127ab8f6b95e360eea9206110be245d7be1216[m
+Merge: 6c9227e 1c7676d
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:46:36 2024 -0400
+
+    vchs
+
+[33mcommit 6c9227e4a324ddea61e5ec96096252851f6df784[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:44:45 2024 -0400
+
+    bsjd
+
+[33mcommit 1c7676d26bcb916433cbc175d21dac749898eda8[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:43:19 2024 -0400
+
+    bvdjc
+
+[33mcommit 0df8209b0fb40cf148166c5b895b14762d8d17ff[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:38:21 2024 -0400
+
+    bfsjc
+
+[33mcommit 6d9d2c263b46b8d7e29b6ae1079646a23e89e440[m
+Merge: 1cfe075 49104bc
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:30:18 2024 -0400
+
+    fbsj
+
+[33mcommit 49104bcc8625b26168b156407c5d846954d8ebf6[m
+Author: Meruv1s <164910888+Meruv1s@users.noreply.github.com>
+Date:   Thu Aug 1 23:46:34 2024 -0400
+
+    Update sister.txt
+
+[33mcommit 1cfe0755e417a55954d31e8771e0bfbb75f85cbe[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:29:15 2024 -0400
+
+    ncjs
+
+[33mcommit f37405225b40f33ca190e2a3e0c7d8409d6c7017[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:24:51 2024 -0400
+
+    bfjs
+
+[33mcommit e8f431ad1d10fe27088970d48ca33a63bab69f0c[m
+Merge: 4a50d8d c41fa9f
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:03:44 2024 -0400
+
+    bcjd
+
+[33mcommit 4a50d8de74601997a68b55ffe57ff1a5ad22f9c5[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 23:02:06 2024 -0400
+
+    dbs
+
+[33mcommit c41fa9f4c802570d7ebd1facf6d831e86c99a9a8[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 22:54:59 2024 -0400
+
+    bdj
+
+[33mcommit 5cb0841f8be21250cccfae2401ade1f4bdccc513[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 22:54:15 2024 -0400
+
+    sbc
+
+[33mcommit e00bd9ed7c6866142d6900bf1bbf46488fc54767[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 22:52:48 2024 -0400
+
+    bsj
+
+[33mcommit 65a580760377d9a6887385f2fe6971cdb538f72f[m
+Merge: 50ab0b2 8540210
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:46:22 2024 -0400
+
+    bsj
+
+[33mcommit 85402103fc9879086b2bab164474392d217098f5[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:42:33 2024 -0400
+
+    csbjc
+
+[33mcommit 0bdbed186f9b2de7b7e8ffa4a520d2dd3eeb1888[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:39:26 2024 -0400
+
+    bsh
+
+[33mcommit 50ab0b2e095ac5acb5d6246010eb138c7ea5e290[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:38:10 2024 -0400
+
+    dbsj
+
+[33mcommit 7f043c193929d4466d9ddf472f6b6af1b2065a5b[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:23:27 2024 -0400
+
+    bsj
+
+[33mcommit 6727b0695fa217dbe9bbca38469803ea5fc4dccb[m[33m ([m[1;32mbsj[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:20:15 2024 -0400
+
+    cndk
+
+[33mcommit f3138adb4a06144d3dc753416c89b6f39aa453e2[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:18:09 2024 -0400
+
+    ndk
+
+[33mcommit b48387a8073f3c6cc8eda17c0b04a6c99822db19[m
+Merge: 7468596 389286a
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:13:15 2024 -0400
+
+    bdjs\
+
+[33mcommit 746859635219a2cb1f204797e09b58b1667352fd[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:12:10 2024 -0400
+
+    bsj:
+
+[33mcommit 389286a19980472b5d166d3bf03660e4b6d0e44b[m
+Merge: 1dabc80 d453ab1
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:09:17 2024 -0400
+
+    sjm
+
+[33mcommit 1dabc80f85a28f8c9dc7e8a1fc4ce2c0318a85ac[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:08:21 2024 -0400
+
+    sbcks
+
+[33mcommit 2cd716608cd8c2c745ed9fea0d03ad5d64f652f2[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:07:21 2024 -0400
+
+    bjws
+
+[33mcommit d453ab113d9c3b1b7377cc77eca0a005f25cc343[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 20:00:42 2024 -0400
+
+    sdn
+
+[33mcommit fc2f1af4e7f79566407c863d6dd647368302c243[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:58:53 2024 -0400
+
+    sdbs'
+
+[33mcommit 1e109dabe6ba4a2621ba60d63029856f9b4bf939[m
+Merge: e8a64cb 75ba367
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:53:13 2024 -0400
+
+    bxsj
+
+[33mcommit 75ba3670092062b71fc7c1ca18baa5c86199b1f3[m
+Merge: 1c684e2 0e95a79
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:46:46 2024 -0400
+
+    as
+
+[33mcommit 1c684e252e434db1bee9157a548b0fc9de867ce0[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:45:07 2024 -0400
+
+    se
+
+[33mcommit e8a64cbae1e8a26db303f45c872c500da076a8d0[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:43:06 2024 -0400
+
+    Kl
+
+[33mcommit 1781752a93bd66c8e4c38511d3aab120dab8a64b[m
+Merge: c66b5bd 0e95a79
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:40:18 2024 -0400
+
+    k
+
+[33mcommit d54d079961116cd5afe10134efeac67b70c4e1ac[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:38:40 2024 -0400
+
+    gh
+
+[33mcommit c66b5bddf27fb27c17e681aab6210218ab8a865f[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:35:42 2024 -0400
+
+    we
+
+[33mcommit 0e95a7939f7fb4bab277c016bef5e9ed939a46ec[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:28:45 2024 -0400
+
+    we
+
+[33mcommit f6ec6ba1e3311f866d7a5ae39cebf4e0e857eb79[m
+Merge: 45e13b2 d95ad93
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:25:23 2024 -0400
+
+    db
+
+[33mcommit 45e13b25662ed6ebdce2cd42eb949f0dbd7a0561[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:14:35 2024 -0400
+
+    bd
+
+[33mcommit 9f42eeaedc978f1c6bd4a965993039eda7899631[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 19:01:38 2024 -0400
+
+    b
+
+[33mcommit 9ad5ed370281d6001434397d90f2174c732689bf[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 18:57:46 2024 -0400
+
+    n
+
+[33mcommit d95ad93c0c4ba2fd9f201644f50f45fd68cfe4d0[m[33m ([m[1;31morigin/f1[m[33m, [m[1;32mf1[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 18:52:47 2024 -0400
+
+    d
+
+[33mcommit e24a75364432ac512c97a9bfb1564366301161a6[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 17:15:30 2024 -0400
+
+    sbcsj
+
+[33mcommit 174f0981c6f5fa845cef4702a3a208e40ca11167[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 17:10:38 2024 -0400
+
+    2s
+
+[33mcommit a96ebd406179e49d6cf406cbee693dd2a10a9fe4[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 16:52:49 2024 -0400
+
+    se
+
+[33mcommit 8a154c00bb7149fd023a63190bd110a06a9e1158[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 16:36:53 2024 -0400
+
+    8
+
+[33mcommit d42e579baaef313a3efb80858d6eedefbc498152[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 16:28:20 2024 -0400
+
+    d
+
+[33mcommit 43b72b12f3a1d6a143aabbceac4b140ede9748d0[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 16:07:16 2024 -0400
+
+    4'
+
+[33mcommit 89b52fc4968838409a08ca1985bba0210d0425c3[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 16:03:27 2024 -0400
+
+    3
+
+[33mcommit 662c51326b9e05e3326a4deedcf48ca14570ff22[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 15:58:46 2024 -0400
+
+    2
+
+[33mcommit 75227427002079bf37b0ba84d9e45683b5f25f13[m
+Author: sumanth <sumanthmp96@gmail.com>
+Date:   Thu Aug 1 15:58:05 2024 -0400
+
+    1
